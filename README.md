@@ -18,9 +18,10 @@
   - [📝 License ](#-license-)
 
 
-# 📖 Blog-application <a name="about-project"></a>
+# 📖 ATM Ticket System -application <a name="about-project"></a>
 
-**The Blog application is designed to serve as a typical blog website. It aims to deliver a complete and operational web platform where users can explore a catalog of articles and engage with them through actions like leaving comments and expressing their appreciation by liking posts..
+**This ATM ticket system is developed to enhance the operations of the ATM field engineers on their daily work operations. 
+The system will enable them to login every field work done at the customer site and as well save it on a dedicated server provided by the CLYDESTONE. other details about the developement will be added. 
 
 
 ## 🛠 Built With <a name="built-with"></a>
